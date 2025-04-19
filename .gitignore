@@ -10,3 +10,6 @@
 # Ignore temporary Quarto files
 /.quarto/
 /_site/
+
+# Ignore VS Code settings
+/.vscode/
