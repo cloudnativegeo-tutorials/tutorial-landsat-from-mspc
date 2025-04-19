@@ -5,15 +5,6 @@
 project:
   type: website
 
-website:
-  title: "Tutorial Template"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-
-format:
-  html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+execute:
+  enabled: true
+  freeze: true
